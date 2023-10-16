@@ -13,4 +13,7 @@ TODO
 
 
 # Devil Fruits
-Here are the current devil fruits: [test](devil_fruits/Main.md)
+Click [here](devil_fruits/Main.md) for the current devil fruit list.
+
+# Contributing
+Click [here](./guide.md) for the guide on how to contribute to the wiki.
