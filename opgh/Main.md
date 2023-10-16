@@ -8,7 +8,9 @@ Join the discord by clicking [this](https://discord.gg/SRNj8x7F7g) link.
 TODO
 
 # Map
-TODO
+
+## [Foosha](map/foosha.md)
+
 
 # Devil Fruits
 Here are the current devil fruits: [test](devil_fruits/Main.md)

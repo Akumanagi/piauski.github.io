@@ -1,4 +1,8 @@
-# Devil Fruits
-Click [here](../Main.md) to go back
+# List of Devil Fruits
 
-TODO
+- [Gum-Gum](./gum.md)
+- [Chop-Chop](./chop.md)
+- [Plume-Plume](./plume.md)
+- [Kilo-Kilo](./kilo.md)
+- [Bomb-Bomb](./bomb.md)
+- [Smooth-Smooth](./smooth.md)
