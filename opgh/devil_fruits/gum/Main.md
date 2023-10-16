@@ -12,11 +12,11 @@ Type: Paramecia*
 
 | Requirements | Move Name                           |
 |--------------|-------------------------------------|
-| 10 Melee     | [Gum-Gum Pistol](./gum/pistol.md)   |
-| 20 Melee     | [Gum-Gum Rocket](./gum/rocket.md)   |
-| 30 Melee     | [Gum-Gum Balloon](./gum/balloon.md) |
-| 40 Melee     | [Gum-Gum Bazooka](./gum/bazooka.md) |
-| 50 Melee     | [Gum-Gum Gatling](./gum/gatling.md) |
+| 10 Melee     | [Gum-Gum Pistol](./pistol.md)   |
+| 20 Melee     | [Gum-Gum Rocket](./rocket.md)   |
+| 30 Melee     | [Gum-Gum Balloon](./balloon.md) |
+| 40 Melee     | [Gum-Gum Bazooka](./bazooka.md) |
+| 50 Melee     | [Gum-Gum Gatling](./gatling.md) |
 
 # Pros
 
