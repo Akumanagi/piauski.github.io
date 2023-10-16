@@ -20,8 +20,15 @@ Type: Paramecia*
 
 # Pros
 
-TODO
+The user of this fruit is bestowed the properties of "Rubber" making him a rubber human.
+Physical blunt attacks along with bullets do not damage users with this fruit.
+
+Has a decent amount of range due to the elasticity of the fruit, and can be a deadly combination when
+mixed with Buso.
 
 # Cons
 
-TODO
+Can be easily sliced with sword and other sharp related abilities.
+
+No passive logia effect due to it being a Paramecia.
+
