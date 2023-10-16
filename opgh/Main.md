@@ -15,5 +15,8 @@ TODO
 # Devil Fruits
 Click [here](devil_fruits/Main.md) for the current devil fruit list.
 
+# Roadmap
+Click [here](roadmap/Main.md) to see the roadmap.
+
 # Contributing
 Click [here](./guide.md) for the guide on how to contribute to the wiki.
