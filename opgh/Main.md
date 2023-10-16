@@ -2,7 +2,7 @@
 Welcome to the OPGH Wiki!
 
 # Discord
-Join the discord by clicking this link: [[https://discord.gg/SRNj8x7F7g|discord]]
+Join the discord by clicking [this](https://discord.gg/SRNj8x7F7g) link.
 
 # Controls
 TODO
@@ -11,4 +11,4 @@ TODO
 TODO
 
 # Devil Fruits
-Here are the current devil fruits: [[devil_fruits/Main.md|test]]
+Here are the current devil fruits: [test](devil_fruits/Main.md)

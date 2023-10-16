@@ -1,4 +1,4 @@
 # Devil Fruits
-Click [[../Main.md|here]] to go back
+Click [here](../Main.md) to go back
 
 TODO
