@@ -10,8 +10,8 @@ Type: Paramecia*
 
 # Movelist
 
-| Requirements | Move Name                           |
-|--------------|-------------------------------------|
+| Requirements | Move Name                       |
+|--------------|---------------------------------|
 | 10 Melee     | [Gum-Gum Pistol](./pistol.md)   |
 | 20 Melee     | [Gum-Gum Rocket](./rocket.md)   |
 | 30 Melee     | [Gum-Gum Balloon](./balloon.md) |
